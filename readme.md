@@ -22,5 +22,7 @@ To run the tests, you'll need to set up user credentials by creating a `userData
 1. Create a new file named `userData.env` in the root directory of the project.
 
 2. Add the following content to the `userData.env` file:
+   
 REGUSEREMAIL=your_email@example.com
+
 REGUSERPASSWORD=your_password_here
