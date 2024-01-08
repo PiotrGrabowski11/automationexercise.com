@@ -26,3 +26,8 @@ To run the tests, you'll need to set up user credentials by creating a `userData
 REGUSEREMAIL=your_email@example.com
 
 REGUSERPASSWORD=your_password_here
+
+LOGINUSER=another_email@example.com
+
+LOGINPASSWORD=your_other_password_here
+
