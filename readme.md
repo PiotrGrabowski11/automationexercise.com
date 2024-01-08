@@ -9,7 +9,7 @@ The main goal of this project is to develop automated tests using Playwright and
 
 Test Cases
 
-### The test cases used in this project are sourced from (https://automationexercise.com/test_cases).
+The test cases used in this project are sourced from (https://automationexercise.com/test_cases).
 
 #### Prerequisites
 
