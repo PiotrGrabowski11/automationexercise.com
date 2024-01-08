@@ -16,3 +16,11 @@ Test Cases
 Before running the tests locally, ensure you have installed:
 - Node.js 
 - Playwright (installation guide (https://playwright.dev/docs/intro))
+
+To run the tests, you'll need to set up user credentials by creating a `userData.env` file in the root directory of the project. Follow these steps:
+
+1. Create a new file named `userData.env` in the root directory of the project.
+
+2. Add the following content to the `userData.env` file:
+REGUSEREMAIL=your_email@example.com
+REGUSERPASSWORD=your_password_here
